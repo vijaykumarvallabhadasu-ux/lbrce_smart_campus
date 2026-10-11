@@ -1,11 +1,10 @@
-﻿{
-  "buildCommand": null,
+{
   "outputDirectory": "build/web",
   "framework": null,
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "/"
+      "destination": "/index.html"
     }
   ]
 }
